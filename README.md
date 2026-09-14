@@ -1,37 +1,99 @@
 # personal-brand-website-tilda
 
+-----------------------------------
 
-Modern responsive website built on Tilda for personal brand / business.
-Create a clean and elegant website to present services and attract clients.
+# ⚖️ Сайт адвоката на Tilda
 
-------- Live Website -------
+Современный адаптивный сайт для частной адвокатской практики, разработанный на платформе Tilda с использованием сложных Zero Block и кастомного HTML/CSS/JavaScript
 
-🔗 https://shaukerovadinara.tilda.ws
+-----------------------------------
 
+## Сслыка:
 
+[shaukerovadinara.ru](http://shaukerovadinara.ru/)
 
-✨ What I did:
--  UI/UX design
--  Responsive layout
--  Page structure & navigation
--  Interactive elements (buttons, transitions)
--  Contact form setup
+-----------------------------------
 
+## О проекте
 
-🛠️ Tools
-- Tilda
+Цель проекта- создать современный и понятный сайт, который презентует услуги адвоката, формирует доверие у потенциальных клиентов и предоставляет удобный способ взаимодействия с сайтом
+Помимо основной информации об услугах, на сайте реализованы интерактивные элементы, форма обратной связи, отзывы и новостной раздел (последнее является фичей)
 
+-----------------------------------
+
+## Что было реализовано
+
+- UI/UX дизайн и проработка визуальной структуры
+- Проектирование структуры сайта и навигации
+- Адаптивная вёрстка для desktop / tablet / mobile
+- Реализация интерфейса на Tilda Zero Block
+- Кастомные HTML/CSS/JavaScript-блоки
+- Анимации и интерактивные элементы
+- Pop-up элементы
+- Кнопки и ссылки с пользовательскими сценариями
+- Раздел отзывов
+- Новостной раздел
+- Интеграция с Google Sheets
+- Автоматизация обработки данных с помощью Google Apps Script
+- Подключение собственного домена
+- Настройка DNS-записей
+- Привязка домена к Tilda
+- SEO-оптимизация
+- Публикация готового проекта
+
+-----------------------------------
+
+## Стек и инструменты
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+
+### Platform
+- Tilda Publishing
+- Zero Block
+
+### Integrations
+- Google Sheets
+- Google Apps Script
+
+### Design
+- Pixso
+
+### Domain & DNS
+- RU-CENTER
+
+-----------------------------------
+
+## Моя роль
+
+Web Developer / UI/UX Designer
+В рамках проекта я самостоятельно занималась разработкой и технической реализацией сайта:
+
+- проектирование интерфейса;
+- UI/UX;
+- адаптивная вёрстка;
+- кастомный HTML/CSS/JS;
+- настройка Zero Block;
+- интеграции с внешними сервисами;
+- автоматизация через Google Apps Script;
+- подключение домена и настройка DNS;
+- SEO;
+- публикация проекта.
+
+-----------------------------------
+
+## Результат
+
+В результате был создан полноценный адаптивный сайт для коммерческого использования - от проектирования интерфейса и визуальной концепции до технической реализации, интеграций и публикации на собственном домене.
+
+-----------------------------------
+
+## Версии:
+
+Старая версия:
 
 <img width="2560" height="11414" alt="shaukerovadinara tilda ws_(Nest Hub Max)" src="https://github.com/user-attachments/assets/7c2fc126-5c8e-4cc8-b452-6fb79112066a" />
 
-
-
-💡 Features
-- Smooth navigation between pages
-- Clean and minimal design
-- Mobile-friendly layout
-- Working contact form
-
-
-📈 Result
-Client satisfied with the design and functionality.
+Заказчик предоставил чёткое видение нового дизайна, структуры и подачи информации. На его основе существующий сайт был полностью переработан:
